@@ -12,7 +12,7 @@
 <p align="left">
   🌱 Hiện tại mình là sinh viên năm <strong>3</strong> chuyên ngành <strong>Data Science</strong> tại <strong>HUFLIT</strong>.
   <br><br>
-  👯 Mình luôn tìm kiếm cơ hội để hợp tác trong các dự án về <strong>[Lĩnh vực bạn quan tâm, ví dụ: Khoa học Dữ liệu, Phân tích Dữ liệu]</strong>.
+  👯 Mình luôn tìm kiếm cơ hội để hợp tác trong các dự án về <strong> Khoa học Dữ liệu</strong>.
   <br><br>
   🥅 Mục tiêu năm 2025: Hoàn thành tốt nghiệp, tìm kiếm cơ hội thực tập và đóng góp cho một dự án mã nguồn mở.
   <br><br>
