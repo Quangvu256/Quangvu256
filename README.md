@@ -50,17 +50,7 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
 </p>
 
----
 
-## 📊 Thống kê GitHub của mình
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en&theme=tokyonight" alt="Thống kê GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&layout=compact&langs_count=8&theme=tokyonight" alt="Ngôn ngữ sử dụng nhiều nhất" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=tokyonight" alt="Thống kê chuỗi ngày hoạt động" />
-</p>
 
 ---
 
