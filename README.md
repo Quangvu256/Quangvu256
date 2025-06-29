@@ -1,11 +1,9 @@
 <h1 align="center">
-  Xin chào 👋, mình là [Quang
+  Xin chào 👋, mình là Vũ Trọng Quang
 </h1>
 <h3 align="center">Một Sinh viên năm 3 đang học tại Đại học ngoại ngữ - tin học Thành phố Hồ Chí Minh</h3>
 
-<p align="center">
-  <img src="[Link đến hình ảnh banner của bạn]" alt="Banner giới thiệu">
-</p>
+
 
 ---
 
