@@ -10,7 +10,7 @@
 ## 🔭 Giới thiệu về mình
 
 <p align="left">
-  🌱 Hiện tại mình là sinh viên năm <strong>3</strong> chuyên ngành <strong>Data Science</strong> tại <strong>HUFLIT</strong>.
+  🌱 Hiện tại mình là sinh viên năm <strong>4</strong> chuyên ngành <strong>Data Science</strong> tại <strong>HUFLIT</strong>.
   <br><br>
   👯 Mình luôn tìm kiếm cơ hội để hợp tác trong các dự án về <strong> Khoa học Dữ liệu</strong>.
   <br><br>
