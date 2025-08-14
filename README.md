@@ -1,7 +1,7 @@
 <h1 align="center">
   Xin chào 👋, mình là Vũ Trọng Quang
 </h1>
-<h3 align="center">Một Sinh viên năm 3 đang học tại Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh</h3>
+<h3 align="center">Một Sinh viên năm 4 đang học tại Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh</h3>
 
 
 
