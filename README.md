@@ -14,7 +14,7 @@
   <br><br>
   👯 Mình luôn tìm kiếm cơ hội để hợp tác trong các dự án về <strong> Khoa học Dữ liệu</strong>.
   <br><br>
-  🥅 Mục tiêu năm 2025: Hoàn thành tốt nghiệp, tìm kiếm cơ hội thực tập và đóng góp cho một dự án mã nguồn mở.
+  🥅 Mục tiêu năm 2026: Hoàn thành tốt nghiệp, tìm kiếm cơ hội thực tập và đóng góp cho một dự án mã nguồn mở.
   <br><br>
 </p>
 
